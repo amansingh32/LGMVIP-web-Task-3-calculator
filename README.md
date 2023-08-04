@@ -1,2 +1,2 @@
 # calculator
-this calculator app made by html, css ,javscript
+this is a calculator website made by html, css ,javscript
